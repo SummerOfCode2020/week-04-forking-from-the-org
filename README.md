@@ -14,7 +14,7 @@ We can now easily collaborate on code and make pull requests with any and all te
 A "fork" is a copy of a repository. Forking a repository allows you to freely experiment with changes on your personal copy independently from the original project.
 
 A great advantage of forking the SummerOfCode2020 repositories is that we are given a page with links to navigate easily to all of the forks by all students.
-
+(Marcus was here)
 ## The Process
 
 We will be doing this every week.
