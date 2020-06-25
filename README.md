@@ -1,3 +1,8 @@
+## Introduction
+
+This is going to be a brief introduction to the benefits and practicality of collaborating on GitHub
+via an organization.
+
 # SummerOfCode2020 Github Organization
 
 Beginning in week 04, the source of our work will be from repositories in the SummerOfCode2020 organization.
