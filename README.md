@@ -1,3 +1,5 @@
+JR Thank you for clarifying , spending your valuable zzz time :)
+
 # SummerOfCode2020 Github Organization
 
 Beginning in week 04, the source of our work will be from repositories in the SummerOfCode2020 organization.
@@ -29,6 +31,8 @@ Don't "clone" the SummerOfCode2020 repositories. Only "fork" them.
 
 Only "clone" your repositories from your workspace in github. Triple check the urls before you press the enter key in your `git clone` commands.
 
+After we clone a repository, we usually create a new branch called `answer`
+
 ## Fixing incorrect git remotes
 
 If you happen to make a mistake and clone a project from SummerOfCode2020, at any time you can remove your git "remotes" and replace them with your personal workspace project.
@@ -56,6 +60,7 @@ Final step on github is getting the url of your personal repository.
 
 Once you commit changes to your copy of a repo, you can make a pull request back to the SummerOfCode2020 repository.
 
+// Make sure that you're trying to pull from your branch into the SummerofCode2020 master and then request review from JR and the TA's.
+
 ![picture](04_Back_to_SummerOfCode2020.png)
 
-Making a change so I can pull request.
