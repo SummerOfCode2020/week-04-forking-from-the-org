@@ -57,3 +57,6 @@ Final step on github is getting the url of your personal repository.
 Once you commit changes to your copy of a repo, you can make a pull request back to the SummerOfCode2020 repository.
 
 ![picture](04_Back_to_SummerOfCode2020.png)
+
+## It's not easy
+As we are in week-04, I'm still trying to fully comprehend week-02. After countless google, YouTube, W3schools, CodingJS, etc. I'm still trying. 'It is not in the pursuit of happiness that we find fulfillment, it is in the happiness of pursuit.' (Denis Waitley)
