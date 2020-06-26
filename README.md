@@ -1,3 +1,5 @@
+JR Thank you for clarifying , spending your valuable zzz time :)
+
 # SummerOfCode2020 Github Organization
 
 Beginning in week 04, the source of our work will be from repositories in the SummerOfCode2020 organization.
