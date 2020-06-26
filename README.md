@@ -63,4 +63,4 @@ Once you commit changes to your copy of a repo, you can make a pull request back
 // Make sure that you're trying to pull from your branch into the SummerofCode2020 master and then request review from JR and the TA's.
 
 ![picture](04_Back_to_SummerOfCode2020.png)
-.
+
