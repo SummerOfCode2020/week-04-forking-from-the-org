@@ -8,8 +8,9 @@ Beginning in week 04, the source of our work will be from repositories in the Su
 
 ## An Organization
 
-That's us. We are a team that works on code together. With the SummerOfCode2020 organization we are connected in github.
+- That's us. We are a team that works on code together. With the SummerOfCode2020 organization we are connected in github.
 We can now easily collaborate on code and make pull requests with any and all teaching assistants as well as any other students.
+- We are diverse, supportive, and always growing and learning from each other.
 
 ## A Fork in Github
 
@@ -24,6 +25,7 @@ We will be doing this every week.
 - Browse to a repository within the organization as directed based on assignment
 - Click the Fork button to Fork the organization's repository
 - In the modal, select your Personal Workspace as the destination of the repository copy
+- Paving those brain waves, turning dirt roads into highways!
 
 ## Notes
 
