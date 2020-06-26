@@ -9,7 +9,7 @@ Beginning in week 04, the source of our work will be from repositories in the Su
 That's us. We are a team that works on code together. With the SummerOfCode2020 organization we are connected in github.
 We can now easily collaborate on code and make pull requests with any and all teaching assistants as well as any other students.
 
-## A Fork in Github
+## A Fork in Github, ie * How not to Fork things up *
 
 A "fork" is a copy of a repository. Forking a repository allows you to freely experiment with changes on your personal copy independently from the original project.
 
@@ -37,6 +37,13 @@ If you happen to make a mistake and clone a project from SummerOfCode2020, at an
 
 `git remote add origin YOUR_URL_HERE` where YOUR_URL_HERE is replaced with a repository in your personal workspace.
 
+## Push + PR
+Once added changes to the staging area on our local repo, we push to the correct remote (which as defined above, is the forked repository that is contained in *our* github, and will be denoted by our name.) 
+## PR
+When making a pull request, we *do* have to compare our previously pushed commits to the organization's code (a crucial step I actually missed previously, I've been making PRs w/in my own github repo and not referencing the org's codebase.)  Picture four, "Comparing Changes" highlights this perfectly! Each section above has to have the required codebases 
+
+(Organizations code main -- Branch {vs} Personal code main -- Branch) 
+
 ## In Pictures
 
 First: Fork
@@ -57,3 +64,6 @@ Final step on github is getting the url of your personal repository.
 Once you commit changes to your copy of a repo, you can make a pull request back to the SummerOfCode2020 repository.
 
 ![picture](04_Back_to_SummerOfCode2020.png)
+
+Some encouragement from one of my favorite authors, trying to remember this as I study and practice.
+![picture](05_Emerson_Pace_Nature.jpg)
