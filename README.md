@@ -29,6 +29,8 @@ Don't "clone" the SummerOfCode2020 repositories. Only "fork" them.
 
 Only "clone" your repositories from your workspace in github. Triple check the urls before you press the enter key in your `git clone` commands.
 
+After we clone a repository, we usually create a new branch called `answer`
+
 ## Fixing incorrect git remotes
 
 If you happen to make a mistake and clone a project from SummerOfCode2020, at any time you can remove your git "remotes" and replace them with your personal workspace project.
