@@ -47,7 +47,7 @@ If you happen to make a mistake and clone a project from SummerOfCode2020, at an
 `git remote add origin YOUR_URL_HERE` where YOUR_URL_HERE is replaced with a repository in your personal workspace.
 
 ## Push + PR
-Once added changes to the staging area on our local repo, we push to the correct remote (which as defined above, is the forked repository that is contained in *our* github, and will be denoted by our name.) 
+Once we have added changes to the staging area on our local repo (using git add name_of_file), we commit to the local repo (using git commit -m "Message goes here"), then we push to the correct remote (which as defined above, is the forked repository that is contained in *our* github, and will be denoted by our name.) 
 ## PR
 When making a pull request, we *do* have to compare our previously pushed commits to the organization's code (a crucial step I actually missed previously, I've been making PRs w/in my own github repo and not referencing the org's codebase.)  Picture four, "Comparing Changes" highlights this perfectly! Each section above has to have the required codebases 
 
