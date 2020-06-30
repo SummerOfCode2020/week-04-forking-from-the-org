@@ -76,6 +76,9 @@ Ensure that you're makign a Pull Request from your branch into the SummerofCode2
 
 ![picture](04_Back_to_SummerOfCode2020.png)
 
+## my change - Alvin
+##
+
 Some encouragement from one of my favorite authors, trying to remember this as I study and practice.
 ![picture](05_Emerson_Pace_Nature.jpg)
 
