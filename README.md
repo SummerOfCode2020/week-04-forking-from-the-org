@@ -85,3 +85,6 @@ Some encouragement from one of my favorite authors, trying to remember this as I
 ## It's not easy
 As we are in week-04, I'm still trying to fully comprehend week-02. After countless google, YouTube, W3schools, CodingJS, etc. I'm still trying. 'It is not in the pursuit of happiness that we find fulfillment, it is in the happiness of pursuit.' (Denis Waitley)
 Wesley J
+
+## Be easy on yourself
+I find that taking breaks and not being so hard on yourself if what get's me through tough challenges. Looking at your code for too long can be more harmful than helpful- it is good to walk away and come back with fresh eyes. Also getting yourself outside, especially during quarantine times, is so necessary! Even opening a window helps :) 
