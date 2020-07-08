@@ -85,3 +85,6 @@ Some encouragement from one of my favorite authors, trying to remember this as I
 ## It's not easy
 As we are in week-04, I'm still trying to fully comprehend week-02. After countless google, YouTube, W3schools, CodingJS, etc. I'm still trying. 'It is not in the pursuit of happiness that we find fulfillment, it is in the happiness of pursuit.' (Denis Waitley)
 Wesley J
+## Celebrate every WINS!
+ No matter how small they might be,it's an indication of good things to come.
+ 
